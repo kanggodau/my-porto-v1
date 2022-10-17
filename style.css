@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0e2ff;
+}
+#skills {
+  background-color: #d0e2ff;
+}
+.card {
+  width: 10cm;
+  height: 10cm;
+}
+#project {
+  background-color: #d0e2ff;
+}
+section {
+  padding-top: 5rem;
+}
